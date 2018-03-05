@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies Interview</string>
+
+    <string name="loading">Loading &#8230;</string>
+
+    <string name="vote_count">%1$s votes</string>
+    <string name="release_date">Release date: %1$s</string>
+
+    <string name="share">Share</string>
+    <string name="share_message">Share this movie!</string>
+</resources>
